@@ -1,0 +1,39 @@
+p{
+	font-size: 30px;
+	margin: 0 0 20px 0;
+	font-weight: bold;
+	color: green;
+	border: 1px solid #999;
+	padding: 10px;
+}
+
+.description{
+	color: black;
+}
+
+#first{
+	color: blue;
+	font-family: sans-serif;
+}
+
+#heading{
+	border:;
+}
+
+#sidebar{
+	position: 
+}
+
+input{
+	border: 1px solid orange;
+}
+
+/* Arbitrary selector */
+input[type="submit"]{
+	border: 2px solid red;
+}
+
+/* This is an example of a selector where something immediately follows something else */
+section p+p{
+	color: red;
+}

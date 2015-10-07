@@ -1,0 +1,22 @@
+section{
+	font-size: 30px;
+	margin: 0 0 20px 0;
+	font-weight: bold;
+	color: green;
+	border: 1px solid #999;
+	padding: 10px;
+}
+
+.description{
+	color: black;
+}
+
+#first{
+	color: blue;
+	font-family: sans-serif;
+}
+
+#heading{
+	border:;
+}
+
